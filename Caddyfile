@@ -1,0 +1,4 @@
+in.apiad.net:80 {
+    root index.html
+}
+
