@@ -7,6 +7,11 @@ Think of it like your own version of `bit.ly` without the fancy add-ons.
 
 Links are defined `links.json`, a dictionary mapping short version to long version. On landing, the page serves and `index.html` with a tiny JavaScript that does the redirection. Everything is logged on Google Analytics.
 
+See some examples:
+* [https://apiad.net/to/#me](https://apiad.net/to/#me) -- My homepage
+* [https://apiad.net/to/#gh](https://apiad.net/to/#gh) -- My Github
+* [https://apiad.net/to/#to](https://apiad.net/to/#to) -- This project
+
 ## Why?
 
 Because I want to keep track of the links I post online and I don't want `bit.ly` or the likes owning my links and stats.
