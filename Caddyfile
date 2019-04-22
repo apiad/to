@@ -1,4 +1,4 @@
-in.apiad.net:80 {
+in.apiad.net {
     root index.html
 }
 
