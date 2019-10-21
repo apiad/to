@@ -5,5 +5,6 @@
     "eh19": "https://competitions.codalab.org/competitions/21781",
     "changed-blog": "https://apiad.net/blog/changed-blog/",
     "corpus": "https://authors.elsevier.com/a/1YxiV5SMDQcX8f",
-    "slides-ml": "https://docs.google.com/presentation/d/1WVVVwoFadruGytT6IaLJ_fDMMnlV0W629RpK_f0538U/edit?usp=sharing"
+    "slides-ml": "https://docs.google.com/presentation/d/1WVVVwoFadruGytT6IaLJ_fDMMnlV0W629RpK_f0538U/edit?usp=sharing",
+    "tagger": "https://ssh.apiad.net:8080"
 }
