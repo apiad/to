@@ -9,5 +9,6 @@
     "slides-ml": "https://docs.google.com/presentation/d/1WVVVwoFadruGytT6IaLJ_fDMMnlV0W629RpK_f0538U/edit?usp=sharing",
     "tagger": "http://ssh.apiad.net:8080",
     "bias": "https://docs.google.com/presentation/d/17uzbqAiMZNZDjmIQVJjcv2yfaCTx-1SSkrA57EDbko0/edit?usp=sharing",
-    "automl-dev": "https://dev.to/apiad/introduction-to-automated-machine-learning-in-python-with-autogoal-45n4"
+    "automl-dev": "https://dev.to/apiad/introduction-to-automated-machine-learning-in-python-with-autogoal-45n4",
+    "gan-video": "https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks"
 }
